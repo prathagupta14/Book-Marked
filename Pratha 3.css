@@ -1,0 +1,42 @@
+body 
+{
+        margin: 0;
+        padding: 0;
+        font-family: "Arial"; 
+        background-color: hotpink;
+        background-size: cover;
+        background-position: center;
+}
+.sign-up-form 
+{
+        width: 300px;
+        background-color: white;
+        padding: 20px;
+        margin: 8% auto 0;
+        text-align: center;
+}
+.sign-up-form h1 {
+    color: mediumslateblue;
+    margin-bottom: 30px;
+}
+.input-box 
+{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid hotpink;
+    outline: none;
+}
+button
+{
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: 1px solid mediumslateblue;
+    outline: none;
+    cursor: pointer;
+    background-color: white;
+}
